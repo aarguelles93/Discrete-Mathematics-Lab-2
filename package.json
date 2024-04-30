@@ -1,0 +1,23 @@
+{
+  "name": "discretemaths-lab-2-a",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.32",
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.12",
+    "ngraph.generators": "^20.1.0",
+    "yargs": "^17.7.2"
+  }
+}
