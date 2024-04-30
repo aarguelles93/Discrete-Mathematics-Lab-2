@@ -11,17 +11,13 @@ This is a Graph Algorithms solution containing implementations of both:
 
 This project uses Node.js and npm. To install the dependencies, run the following command:
 
-npm install
-
-
+- `npm install`
 
 ## Run
 
 To run the project, use the following command:
 
-- npm run start
-
-
+- `npm run start`
 
 ## Arguments
 The following arguments can be passed when executing the project:
